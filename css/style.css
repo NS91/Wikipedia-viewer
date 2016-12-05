@@ -1,0 +1,29 @@
+h1 {
+  color: white;
+  width: 300px;
+}
+
+body {
+  background: linear-gradient(to left, #1e3c72, #2a5298);
+}
+.btn {
+  margin-bottom: 10px;
+  margin-top: 25px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  background: white;
+  padding: 15px;
+}
+a {
+  font-size: large;
+}
+#userInput {
+  margin-top: 10px;
+  padding-top: 5px;
+  border-radius: 5px;
+}
