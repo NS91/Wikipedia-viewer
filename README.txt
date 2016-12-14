@@ -1,3 +1,5 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/fine_yams/pen/ozyVYk.
+Created for FreeCodeCamp's intermediate JS bonfires.
 
- 
+Was useful for understanding how to display information from an API in a way that was accessible to the user.
+
+Built with the MediaWiki API.
